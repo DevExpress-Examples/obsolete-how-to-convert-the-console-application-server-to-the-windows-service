@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ApplicationServerService.cs](./CS/ApplicationServerService/ApplicationServerService.cs) (VB: [ApplicationServerService.vb](./VB/ApplicationServerService/ApplicationServerService.vb))
+* [ServerApplication.cs](./CS/ApplicationServerService/ServerApplication.cs) (VB: [ServerApplication.vb](./VB/ApplicationServerService/ServerApplication.vb))
+<!-- default file list end -->
 # OBSOLETE - How to: Convert the Console Application Server to the Windows Service
 
 
